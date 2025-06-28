@@ -1,0 +1,14 @@
+---
+title: "Proportion of red beads"
+format: html
+author: "Eric Butte"
+execute: 
+  echo: false
+---
+
+```{r}
+library(tidyverse)
+
+Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_k X_k + \varepsilon\
+```
+
